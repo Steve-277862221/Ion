@@ -20,4 +20,4 @@
 
 ---
 
-*This project is independently developed. All third-party tools are credited for assistance only and do not claim ownership of the Ion language or ecosystem.*
+*All third-party tools and references are credited for assistance and inspiration only and do not claim ownership of the Ion language or ecosystem.*
