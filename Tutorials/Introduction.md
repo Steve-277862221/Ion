@@ -88,3 +88,13 @@ These files exist specifically because of Ion and are interpreted or produced by
 ## 🧠 Core Principle
 > Every Ion source or definition file ultimately exists to produce **`.ibc`**.  
 > `.ibc` is the single execution truth of the Ion ecosystem.
+
+
+
+# Compatibility
+
+---
+
+- ### Linux
+- ### Windows
+- ### Android
