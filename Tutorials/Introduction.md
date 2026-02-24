@@ -96,7 +96,7 @@ These files exist specifically because of Ion and are interpreted or produced by
 ---
 
 - ### [Linux](https://www.kernel.org)
-- ### [Windows](https://www.microsoft.com/windows)
-- ### [Android](https://www.android.com) (via Linux kernel-based runtime support)
+- ### [Windows](https://www.microsoft.com/windows) (Dev Portal: [Click Here](https://learn.microsoft.com/windows))
+- ### [Android](https://www.android.com) (Dev Portal: [Click Here](https://developer.android.com)) (via Linux kernel-based runtime support)
 
 > Additional platforms may be supported as the runtime evolves.
